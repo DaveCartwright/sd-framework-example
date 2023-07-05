@@ -1,4 +1,4 @@
-#Clean Code
+# Clean Code
 
 Clean Code describes code that is objectively well factored: Functions will be very small (typically less than 6 statements), They should do one thing well and operate at a single level of abstraction, They should not have side effects, They should take few arguments, And they should contain almost no conditional logic except for guard conditions and default assignments.
 
