@@ -1,7 +1,7 @@
-<header align="center">
+<p align="center">
 <img width="450" alt="title logo" src="https://github.com/HavenEngineering/engineering/assets/105437933/4f16401b-4bc8-4c4c-a561-2bb77c2ba2cf">
 <h1 align="center">Skills Development</h1>
-</header>
+</p>
 
 ## What Should I Expect ?
 
