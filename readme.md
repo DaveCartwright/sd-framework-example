@@ -1,15 +1,15 @@
 <p align="center">
 <img width="450" alt="title logo" src="https://github.com/HavenEngineering/engineering/assets/105437933/4f16401b-4bc8-4c4c-a561-2bb77c2ba2cf">
-<h1 align="center">Skills Development</h1>
+<h1 align="center">Skills Development Guide</h1>
 </p>
 
 ## What Should I Expect ?
 
 Your learning is divided into Units covering the various skills which have been identified as valuable for Haven.
 
-These units span four [proficiency levels](#proficiency) from Beginner to Expert, and each will contain one or more Modules which focus on a specific aspect for the skill in question; For example, the 'Craft' Unit contains four modules concerning programming best practices which include: Test Driven Development, Clean Code, and Production Readiness.
+These units span four [proficiency levels](appendix.md#proficiency) from Beginner to Expert, and each will contain one or more Modules which focus on a specific aspect for the skill in question; For example, the 'Craft' Unit contains four modules concerning programming best practices which include: Test Driven Development, Clean Code, and Production Readiness.
 
-When learning [skills](#skills) it is improtant to realise they are not straight forward, it may take the combination of several modules to master a single skill.
+When learning [skills](appendix.md#skills) it is improtant to realise they are not straight forward, it may take the combination of several modules to master a single skill.
 
 The learning will be a mix of on-the-job experience and your own research. This means you will not be stuck in a classroom environment, instead you will be implementing real code on real projects! The benefit of this is the experience you can leverage from your colleagues via questioning implementations and direct feedback on your own code.
 
@@ -36,6 +36,12 @@ For more information about live journals and effective note taking read about Th
 
 Most of all, ask lots of questions! It's great to know how to do something; it's better to understand why.
 
+> **Think harder about this. Journalling is good, but I think being tech, cloning this repo and pushing learning up to the various units is more appropriate, plus it provides hidden learning in the form of using git and repo organisation.**
+>
+> **Journals can be pushed, or just use MD and add image/miro etc where required.**
+>
+> **This could form a 'How to use thisGuide' section?**
+
 ## Skills and Seniority
 
 Seniority reflects an engineer’s effectiveness at problem solving within a specific context.
@@ -44,36 +50,7 @@ After learning the ropes, a Junior Engineer is effective at solving well-defined
 
 Technical skills are important, but not sufficient by themselves; Behaviour, Approach, and Wisdom play a critical part in determining someone’s seniority.
 
-## Skills
+## Next Step... Are you ready Player One?
 
-Skills are not straight forward. They can be:
-
-- **Composable**  
-  Someone who is skilled with relational databases is so because they are skilled in SQL, data modelling and optimisation
-- **Related**  
-  Someone who is skilled in JavaScript will find TypeScript familiar
-- **Context dependent**  
-  An engineer on the Search squad needs Elasticsearch, but an engineer on the Checkout squad does not
-- **Time dependent**  
-  The relevance and need for skills may change over time. Consequently, some of the skills you have spent time acquiring may become redundant
-
-## Proficiency
-
-We use the following levels to categorise proficiency:
-
-1. Beginner
-2. Intermediate
-3. Advanced
-4. Expert
-
-You start at level 1 with no expectation for knowledge within any of the skills. Each skill description specifies the entry level criteria for meeting the levels of proficiency. Not all skills are complex enough to require all levels, and some skills have a practical cut-off point beyond which additional expertise has little benefit to Haven.
-
-## Resources
-
-Each skill description includes a set of links to relevant resources and may include the Pluralsight training platform and/or books. If you do not have Pluralsight account, speak to your Head of Engineering. All books referenced in this document can be expensed.
-
-Where articles are referenced, they may be highly opinionated or controversial. Their inclusion is not intended to advocate for an extreme position, merely to provide balance and alternative viewpoints.
-
-Where tools/libraries/frameworks are referenced (especially those developed by [yours truly](https://github.com/cressie176)), the intention is provide a wider understanding of the body of work, and in some cases, to highlight problems with more popular alternatives. It is not the intention to advocate that a specific tool be adopted.
-
-**Are you ready Player One?**
+need to reference how to use this, ie its modular, any order, can do advanced JS before intermediate SNS etc.
+[intermediate units](./intermediate/readme.md)
